@@ -7,7 +7,7 @@ Projeto Final em C | TII | Estruturas de Dados Avançadas
 
 Este projeto foi realizado em [C](https://docs.microsoft.com/en-us/dotnet/c/)
 
-## 💻 Projeto
+## 💻 Projeto
 
 Devido à situação pandémica, as cadeias comerciais de produtos alimentares e não alimentares, como os supermercados, tiveram de se adaptar de forma a possibilitar a compra, venda e gestão de produtos. Especialmente, para garantir os bens necessários. Para tal, imagine que você e a sua equipa foram contratados para fazer um programa de gestão de clientes, stock e compras de produtos de uma cadeia de supermercados de forma a ultrapassar as limitações impostas pela situação pandémica atual. Denote que com a evolução e aceitação do público-alvo, a plataforma pode vir a constituir uma forma principal de comércio de produtos da cadeira de supermercados em questão.
 
@@ -21,7 +21,7 @@ Descrição do problema:
  
   ![image](https://user-images.githubusercontent.com/54191355/171966706-a952c308-f53e-4840-afcd-79197cb25b7d.png)
 
-## Alguns Extras
+## ❗Alguns Extras
   * Permitir login com password dos utilizadores;
   * Adaptar a quantidade de produtos consoante a validade;
   * Criar “carrinho de compras” para utilizador usar durante a compra (por exemplo, para consulta de produtos já selecionados);
