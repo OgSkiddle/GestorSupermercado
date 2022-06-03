@@ -33,3 +33,8 @@ Descrição do problema:
 This project uses the license [MIT][mit]. [LICENSE](https://github.com/TerritorialBreak5/project-c/blob/main/LICENSE)
 
 [mit]:https://opensource.org/licenses/MIT
+
+## Desenvolvido por:
+<a href="https://github.com/TerritorialBreak5"><img width="60" src="https://github.com/TerritorialBreak5.png" />
+<a href="https://github.com/DiogoMarques2003"><img width="60" src="https://github.com/DiogoMarques2003.png" />
+<a href="https://github.com/ludgeromiguel"><img width="60" src="https://github.com/ludgeromiguel.png" />
