@@ -18,6 +18,7 @@ Descrição do problema:
   * Os produtossão identificados pelo código do produto, nome do produto, preço, validade e quantidade de stock.
   * Toda a informação gerida sobre os produtos e clientes deverá ser persistida em ficheiros e sempre que o programa seja reiniciado deverá carregar a informação contida nesses ficheiros.
   * A aplicação pode ser utilizada como "cliente" e como "gestor". Para cada uma destas estruturas serão atribuídas as seguintes funções
+ 
   ![image](https://user-images.githubusercontent.com/54191355/171966706-a952c308-f53e-4840-afcd-79197cb25b7d.png)
 
 ## Alguns Extras
