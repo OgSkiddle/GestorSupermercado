@@ -1,0 +1,8 @@
+Username: admin
+Pwd: passwordAdmin
+
+Username: JonasG
+Pwd: Gabriel19
+
+Username: LuD
+Pwd: Miguel22
