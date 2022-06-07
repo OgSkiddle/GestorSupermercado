@@ -28,7 +28,7 @@ Descrição do problema:
 
 
 
-## 📃 Licensa
+## 📃 Licença
 
 This project uses the license [MIT][mit]. [LICENSE](https://github.com/TerritorialBreak5/project-c/blob/main/LICENSE)
 
